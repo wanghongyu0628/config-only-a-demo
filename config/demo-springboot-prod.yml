@@ -1,5 +1,5 @@
 data:
-  env: demo-springboot 
+  env: demo-springboot-prod
   user:
     username: eureka-client-user
     password: 1291029102
